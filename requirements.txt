@@ -1,0 +1,9 @@
+pandas
+pyautogui
+pygetwindow
+selenium
+seleniumbase
+webdriver-manager
+psutil
+tkinker
+openai
