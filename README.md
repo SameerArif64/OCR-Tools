@@ -9,4 +9,4 @@ ocr_utils is a Python library for extracting text from screenshots using Tessera
 
 ## Installation
 ```sh
-pip install ocr-utils
+pip install git+https://github.com/SameerArif64/OCR-Tools
